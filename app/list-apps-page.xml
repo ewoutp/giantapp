@@ -1,0 +1,9 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" navigatedTo="pageNavigatedTo">
+  <StackLayout>
+        <ListView id="lvApps" items="{{ apps }}">
+            <ListView.itemTemplate>
+                <Label text="{{ app }}" textWrap="true"/>
+            </ListView.itemTemplate>  
+        </ListView>
+  </StackLayout>
+</Page>

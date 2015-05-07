@@ -1,0 +1,20 @@
+{
+	"name": "com.epracom.GiantApp",
+	"main": "app.js",
+	"version": "1.0.0",
+	"author": "Ewout Prangsma",
+	"description": "GiantSwarm app",
+	"license": "BSD",
+	"keywords": [
+		"mobile",
+		"giant"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/NativeScript/template-hello-world.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NativeScript/template-hello-world/issues"
+	},
+	"homepage": "https://github.com/NativeScript/template-hello-world"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "com.epracom.giantapp",
+	"tns-ios": {
+		"version": "1.0.0"
+	},
+	"tns-android": {
+		"version": "1.0.0"
+	}
+}
